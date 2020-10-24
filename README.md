@@ -13091,21 +13091,6 @@ $$ h_t = f(h_{t-1} , x_t) $$<p>where $h_t$ is the current state, $h_{t-1}$ is th
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div>
-    </div>
-  </div>
 </body>
 
  
