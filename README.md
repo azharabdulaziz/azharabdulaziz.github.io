@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+# Azhar Sabah Abdulaziz
 <html>
 <head><meta charset="utf-8" />
 
@@ -13080,11 +13080,11 @@ div#notebook {
 <h1 id="Long-Short-Term-Memeory">Long-Short Term Memeory<a class="anchor-link" href="#Long-Short-Term-Memeory">&#182;</a></h1><p>Long-short term memeory (LSTM) is a type of recrrent neural network (RNN), which a class of neural networks that is designed to deal with temporal data. The neurons of RNN have a cell state/memory, and input is processed according to this internal state, which is achieved with the help of loops with in the neural network. There are recurring module(s) of ‘tanh’ layers in RNNs that allow them to retain information. However, not for a long time, which is why we need LSTM models.</p>
 <p>Recurrent Neural Network(RNN) are a type of Neural Network where the output from previous step are fed as input to the current step. Therefore, RNN has memory to remember the previuos state as it estimate the current state. The following figure shows a simple one neuron RNN that uses the following formula:</p>
 $$ h_t = f(h_{t-1} , x_t) $$<p>where $h_t$ is the current state, $h_{t-1}$ is the previous state, and $x_t$ is the current input as related to time $t$.</p>
-<p><img src='pics/RNN.jpg'></p>
+<p><img src='RNN.jpg'></p>
 <blockquote><p>Recurrent :  متكرر او متواتر</p>
 </blockquote>
 <h2 id="LSTM">LSTM<a class="anchor-link" href="#LSTM">&#182;</a></h2><p>This special kind of RNN can learn long term dependencies as the recurring model has four layer interacting with each other:</p>
-<p><img src='pics/lstm.jpg'></p>
+<p><img src='lstm.jpg'></p>
 <p>Pleae follow:</p>
 <p><a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/">https://colah.github.io/posts/2015-08-Understanding-LSTMs/</a></p>
 
