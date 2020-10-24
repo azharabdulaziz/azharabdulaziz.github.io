@@ -1,3 +1,4 @@
+
 # Long-Short Term Memeory
 
 Long-short term memeory (LSTM) is a type of recrrent neural network (RNN), which a class of neural networks that is designed to deal with temporal data. The neurons of RNN have a cell state/memory, and input is processed according to this internal state, which is achieved with the help of loops with in the neural network. There are recurring module(s) of ‘tanh’ layers in RNNs that allow them to retain information. However, not for a long time, which is why we need LSTM models.
